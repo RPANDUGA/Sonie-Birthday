@@ -1082,7 +1082,7 @@ audio {
 	z-index: 99;
 	width: 100px;
 	height: 183px;
-	background-repeat: no-repeat no-repeat;
+	/* background-repeat: no-repeat no-repeat; */
 	background-size: 100px 183px;
 }
 .balloons h2 {

@@ -1,8 +1,8 @@
-Happy Birthday
+Happy Birthday Amrin(Anisha)
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: https://rpanduga.github.io/Sonie-Birthday/
+URL: https://rpanduga.github.io/Amrin-Birthday/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
